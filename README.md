@@ -23,6 +23,10 @@ Windows:
 ```bash
 git clone https://github.com/Samikshya0/Portfolio.git
 ```
+# Some Glances of my Portfolio: 
+![Page-1](https://github.com/Samikshy0/Portfolio/blob/main/assets/Demo-Screenshots/pg1.png)
+![Page-2](https://github.com/Samikshy0/Portfolio/blob/main/assets/Demo-Screenshots/pg2.png)
+![Page-3](https://github.com/Samikshy0/Portfolio/blob/main/assets/Demo-Screenshots/pg3.png)
 
 ## Contact
 

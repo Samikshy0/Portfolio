@@ -1,5 +1,4 @@
 <h1>Samikshya Sradhanjali Nayak - Portfolio</h1>
-<h3>My Personal portfolio</h3>
 My PortFolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 

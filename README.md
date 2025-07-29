@@ -1,11 +1,9 @@
 <h1>Samikshya Sradhanjali Nayak - Portfolio</h1>
 # My Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/Samikshya0/Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Samikshya0/Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Samikshya0/Portfolio?style=social)
 
 My PortFolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 

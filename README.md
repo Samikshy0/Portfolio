@@ -1,10 +1,5 @@
 <h1>Samikshya Sradhanjali Nayak - Portfolio</h1>
 # My Personal portfolio
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Samikshya0/Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/Samikshya0/Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Samikshya0/Portfolio?style=social)
-
 My PortFolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
